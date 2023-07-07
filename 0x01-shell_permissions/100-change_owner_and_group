@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -hR staff /u
+chgrp -hR vincent staff /u
