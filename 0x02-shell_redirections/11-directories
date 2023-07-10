@@ -1,2 +1,2 @@
 #!/bin/bash
-finc . -type d !  - path . -print | wc -l
+ls -la | wc -l
